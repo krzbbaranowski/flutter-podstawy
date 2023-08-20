@@ -24,7 +24,8 @@ Witaj na stronie głównej poświęconej książce Flutter. Podstawy!
 
 # ✉️ Kontakt
 Jeśli masz pytanie związane z książką, natrafiłeś na błąd lub po prostu chcesz się ze mną skontaktować, skorzystaj z poniższego adresu email:
-autor@flutterpodstawy.pl
+
+<autor@flutterpodstawy.pl>
 
 
 # ☘️ FAQ
