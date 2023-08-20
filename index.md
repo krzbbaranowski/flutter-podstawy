@@ -11,13 +11,13 @@ Witaj na stronie głównej poświęconej książce.
 # Ważne linki
 
 **Strona książki w ksiegarni Helion**
-https://pbyc.pl/flutter-podstawy
+<https://pbyc.pl/flutter-podstawy>
 
 **Kod źródłowy aplikacji realizowanych w książce**
-https://pbyc.pl/fp-kod
+<https://pbyc.pl/fp-kod>
 
 **Mój blog Programistą Być**
-https://pbyc.pl/fp-blog
+<https://pbyc.pl/fp-blog>
 
 # FAQ
 Pusto 🚀
